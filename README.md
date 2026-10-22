@@ -21,7 +21,7 @@ embeddings/pgvector, LangChain, LangGraph, tools, human-in-the-loop, observabili
 
 ## 1. Visão geral
 
-```mermaid
+``mermaid
 flowchart LR
     subgraph Fora["Fora do escopo (simulado)"]
         R[React] --> N[ASP.NET API]
